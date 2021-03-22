@@ -2,7 +2,7 @@
 ### Analysis:
 We tried different  strategies to build our image classification model  using various approaches like Supervised Learning, ANN, CNN. 
 Below are the disadvantages we observed:
--### Supervised Learning:
+<br>### Supervised Learning:
 The major disadvantage with supervised learning is that it requires intensive feature engineering i.e before feeding out the flattened pixel values we need to apply tons of feature engineering over images and try to generate different features manually (which by the way gets automated to a great extent whenever we train a image classification model using CNN or even using ANN).
 Also the dimensionality of the data increases which slows down the learning.
 
