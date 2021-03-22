@@ -1,8 +1,8 @@
 # Plant-Seedling-Classification
-Notebook link : 
+Notebook link : https://nbviewer.jupyter.org/github/gouravsinha1405/Plant-Seedling-Classification/blob/main/Part_1_Determine_Plant_species_from_images.ipynb
 ### Analysis:
 We tried different  strategies to build our image classification model  using various approaches like Supervised Learning, ANN, CNN. 
-Below are the disadvantages we observed:
+Below are the points we observed:
 
 <br><b>Supervised Learning:</b><br>
 The major disadvantage with supervised learning is that it requires intensive feature engineering i.e before feeding out the flattened pixel values we need to apply tons of feature engineering over images and try to generate different features manually (which by the way gets automated to a great extent whenever we train a image classification model using CNN or even using ANN).
